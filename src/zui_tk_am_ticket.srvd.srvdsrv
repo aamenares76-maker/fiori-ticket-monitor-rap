@@ -1,0 +1,4 @@
+@EndUserText.label: 'Servicio monitor tickets'
+define service ZUI_TK_AM_TICKET {
+  expose ZC_TK_AM_Ticket as Ticket;
+}
